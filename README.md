@@ -1,4 +1,4 @@
-#nyc-driving-income-impact
+# nyc-driving-income-impact
 
 This was a Big Data project to find links between income and people who walk or bike to work and are victims of traffic crashes in New York City. See `paper.pdf` in this repo for a detailed description and results.
 
